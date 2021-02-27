@@ -12,7 +12,7 @@ This project is sample example of how you could get started with testing a Blazo
 Project is created with:
 * C# .net core 3.1
 * Blazor
-* Selenium
+* Selenium (Chrome)
 * NUnit
 * BlazorMe.Testhost - a wrapper around the Steve Sanderson component testing project [here](https://blog.stevensanderson.com/2019/08/29/blazor-unit-testing-prototype/).
 	
