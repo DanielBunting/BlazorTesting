@@ -6,7 +6,7 @@
 * [How to run the tests](#How-to-run-the-tests)
 
 ## General info
-This project is sample example of how you could get started with testing a Blazor application by adding tests to the template blazor application.
+This project contains a collection of samples to help you get started with testing a Blazor application by extending the template Blazor application with tests.
 	
 ## Technologies
 Project is created with:
